@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌱 I’m currently learning about **MLOps, Data Science & Web Development(React, Redux) & Cloud Technologies(Azure)**<br>💬 Ask me about **Python, React, TensorFlow, Machine Learning**<br>📫 How to reach me **rishabhpatil9179@gmail.com/rishabhpatilinternships@gmail.com**<br>⭐️ Fun Fact about myself **I love playing cricket , solving cubes😋**
+🌱 I’m currently learning about **MLOps, Data Science & Web Development(React, Redux) & Cloud Technologies(Azure)**<br>💬 Ask me about **Python, React, TensorFlow, Machine Learning**<br>📫 How to reach me **rishabhpatil1799@gmail.com/usarishabhpatil@gmail.com**<br>⭐️ Fun Fact about myself **I love playing cricket😋**
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
